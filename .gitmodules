@@ -1,4 +1,0 @@
-[submodule "sdk-java"]
-	path = sdk-java
-	url = https://github.com/pydio/cells-sdk-java.git
-	branch = future
